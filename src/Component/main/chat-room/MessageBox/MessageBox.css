@@ -1,0 +1,19 @@
+.MessageBox{
+    width: 55vw;
+    border: 1px solid black;
+    height: 75%;
+    margin-top: 5rem;
+    background-color: rgb(238, 241, 241);
+    overflow-y: scroll;
+}
+.RecipientName{
+    font-weight: bolder;
+    font-size: 2rem;
+    top: 75px;
+    right: 450px;
+    position: fixed;
+}
+.NoParticipantSelected{
+    text-align: center;
+    margin-top: 20vh;
+}

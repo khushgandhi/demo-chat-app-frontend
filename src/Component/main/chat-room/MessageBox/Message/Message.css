@@ -1,0 +1,29 @@
+.sentMessage{
+    position: relative;
+    float: left;
+    top:1.5rem;
+    left:2rem;
+    bottom: 2rem;
+    border: 1px solid black;
+    padding: 3px 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+}
+
+.recievedMessage{
+    position: relative;
+    float: right;
+    top:1.5rem;
+    right:2rem;
+    border: 1px solid black;
+    padding: 3px 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: rgb(208, 245, 200);
+    font-size: 0.8rem;
+}
+.MessageContainer{
+    margin-bottom: 0.5rem;
+}

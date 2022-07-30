@@ -1,0 +1,30 @@
+.register-box{
+    border: 2px solid gray;
+    height: 20rem;
+    width: 60vw;
+    margin: auto;
+    margin-top: 10rem;
+}
+.register-box>.content{
+    margin: auto;
+    width: 20%;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#register-input{
+    display: block;
+   margin: auto;
+   margin-top: 5rem;
+   padding: 1rem;
+   font-size: inherit;
+}
+
+#register-button{
+    padding: 0.5rem;
+    display: block;
+    margin: auto;
+    margin-top: 1.5rem;
+    background-color: rgb(74, 117, 31);
+    color: rgb(250, 248, 248);
+}

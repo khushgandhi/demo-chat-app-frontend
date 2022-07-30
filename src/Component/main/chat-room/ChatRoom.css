@@ -1,0 +1,14 @@
+.Search{
+    margin-top: 20rem;
+    margin-left: 2rem;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ChatRoomMessageBox{
+    display: inline-block;
+    margin-left: 20rem;
+    height: 100%;
+    vertical-align: top;
+    
+}
